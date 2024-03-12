@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jmisiaszek.github.io/awww1.github.io/categories/</loc>
-  </url><url>
     <loc>https://jmisiaszek.github.io/awww1.github.io/</loc>
+  </url><url>
+    <loc>https://jmisiaszek.github.io/awww1.github.io/list/0/</loc>
+  </url><url>
+    <loc>https://jmisiaszek.github.io/awww1.github.io/list/1/</loc>
+  </url><url>
+    <loc>https://jmisiaszek.github.io/awww1.github.io/list/2/</loc>
+  </url><url>
+    <loc>https://jmisiaszek.github.io/awww1.github.io/list/3/</loc>
+  </url><url>
+    <loc>https://jmisiaszek.github.io/awww1.github.io/list/</loc>
+  </url><url>
+    <loc>https://jmisiaszek.github.io/awww1.github.io/list/list/</loc>
+  </url><url>
+    <loc>https://jmisiaszek.github.io/awww1.github.io/categories/</loc>
   </url><url>
     <loc>https://jmisiaszek.github.io/awww1.github.io/tags/</loc>
   </url>
